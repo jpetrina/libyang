@@ -1,8 +1,8 @@
-libyang2 (2.0.0~-1) unstable; urgency=medium
+libyang2 (2.0.7-1) unstable; urgency=medium
 
-  * Initial pre-release of libyang2
+  * Initial release of libyang2
 
- -- Ondřej Surý <ondrej@debian.org>  Tue, 04 May 2021 22:20:03 +0200
+ -- Jakov Petrina <jakov.petrinaj@sartura.hr>  Fri, 18 Jun 2021 14:00:00 +0200
 
 libyang (1.0.225-1) unstable; urgency=medium
 
